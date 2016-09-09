@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(153, 204, 255);
+  font-family: Comic Sans MS;
+  color:purple
+  }
+nav {
+   background-color: white;
+   height: 60px;
+   width: 100%;
+   display: inline-block;
+   }
+nav li {
+  color: blue;
+  display: inline-block;
+  padding: 40px;
+  padding: 15px;
+}
+h1 {
+  text-align: center;
+  font-family: Comic Sans MS;
+  color:purple;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: Comic Sans MS;
+  color:purple
+}
+h3 {
+  font-family: Comic Sans MS;
+  color:purple
+}
+img {
+    border: solid 1px;
+    height: 300px;
+    width: auto;
+    float: right;
+    }
